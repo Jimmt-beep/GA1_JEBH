@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pastel>
+    <Receta id="1">
+        <Nombre>Pay de queso</Nombre>
+        <Ingredientes>
+            1 barra (100 gramos) de mantequilla, derretida
+            1 paquete (170 gramos) de galletas Marías, trituradas
+            3 huevos
+            1 lata (387 gramos) de leche condensada
+            1 lata (360 gramos) de leche evaporada
+            1 barra (190 gramos) de queso crema, a temperatura ambiente
+        </Ingredientes>
+        <instrucciones>
+            Paso 1: Precalienta el horno a 130C
+            Paso 2: Mezcla las galletas trituradas con la mantequilla derrretida,hasta formar una pasta uniforme, para luego cubrirloen todo el molde para pay.
+            Paso 3: Licua los huevos junto con la leche 
+            Paso 4: Tapa el molde con papel aluminio y hornea el pay hasta que pase la preba del palillo, entre 50 y 60 minutos.
+            Paso 5: Saca del horno y deja enfriar durante 2 horas. Refrigera durante por lo menos 6 horas antes de servir.
+        </instrucciones>
+        <Tiempo_Coccion>Entre 50 y 60 minutos.</Tiempo_Coccion>
+        <Nivel_dificultad>Facil</Nivel_dificultad>
+    </Receta>
+    <Receta id="2">
+        <Nombre>Pay de Yogur</Nombre>
+        <Ingredientes>
+         1 yogur natural. (125 gr)
+         3 huevos.
+         2 medidas de azucar.
+         3 medidas de harina.
+         1 medida de aceita de girasol.
+           ralladura de limon.
+        </Ingredientes>
+        <instrucciones>
+          Paso 1: Precalienta el horno a 180 C.
+          Paso 2: En un bol, mezcla el yogur, los huevos y el azucar hasta que se integren.
+          Paso 3: Añade el aceit, la harina y la levadura.Mezcla bien hasta obtener una masa homogenea.
+          Paso 4: Agrega la ralladua de limon.
+          Paso 5: Vierte la mezcla en un molde engrasado. 
+          Paso 6: Hornea durante 35-40 minutos o hasta que al insertar un pallilo, salga limpio.
+          Paso 7: Deja enfriar antes de desmoldar, luego sirvelo.
+        </instrucciones>
+        <Tiempo_Coccion> De 45 a 30 minutos. </Tiempo_Coccion>
+        <Nivel_dificultad>Facil</Nivel_dificultad>
+    </Receta>
+    <Receta id="3">
+        <Nombre>Pastel de chocolate y cafe</Nombre>
+        <Ingredientes>
+          200 g de chocolate negro.
+          200 g de mantequilla.
+          150 g de azucar.
+          100 ml de cafe fuerte (frio)
+          4 huevos.
+          100 g de harina.
+          1 cdta de polvo de hornear.
+        </Ingredientes>
+        <instrucciones>
+          Paso 1: Precalienta el horno a 180 C.
+          Paso 2: Derrite el chocolate con la mantequilla al baño Maria o en el microondas.
+          Paso 3: Agrega el azucar y el cafe a la mezcla deretida y mezcla bien.
+          Paso 4: Incorpora los huevos uno a uno, batiendo entre cada adicion.
+          Paso 5: Tamiza la harina y el polvo de hornear y añadelos a la mezcla.
+          Paso 6: Vierte la masa en un molde engrasado  y hornea por 35-40 minutos.
+          Paso 7: Deja enfriar y espolvorea con azucar glasso decora al gusto.
+        </instrucciones>
+        <Tiempo_Coccion> De 35 a 45 minutos. </Tiempo_Coccion>
+        <Nivel_dificultad>Media</Nivel_dificultad>
+    </Receta>
+     <Receta id="4">
+        <Nombre>Pastel invertido de Manzana</Nombre>
+        <Ingredientes>
+          3 manzanas.
+          150g de mantequilla.
+          150g de azucar (dividido).
+          3 huevos.
+          150g de harina.
+          1 cdta de canela.
+          1 cdta de polvo de hornear.
+          jugo de medio limon.
+        </Ingredientes>
+        <instrucciones>
+          Paso 1: Precalienta el horno a 180 C.
+          Paso 2: Pela y corta las manzanas en laminas finas. Luego se le rocia el jugo de limon.
+          Paso 3: En un bol, derrite 50g de mantequilla y el azucar hasta que este cremoso. Luego agrega los huevos uno a uno.
+          Paso 4: Añade la harina, el polvo de hornear y la canela.
+          Paso 5: En un molde engrasado, coloca las manzanas caramelizadas en el fondo. Vierte la masa encima.
+          Paso 6: Hornea por 40-45 minutos. Deja enfriar un poco antes de desmoldar al reves.
+        </instrucciones>
+        <Tiempo_Coccion> De 40 minutos a 1 hora 10 minutos. </Tiempo_Coccion>
+        <Nivel_dificultad>Media</Nivel_dificultad>
+    </Receta>
+    <Receta id="5">
+        <Nombre>Pastel de coco</Nombre>
+        <Ingredientes>
+          200 g de harina.
+          150 g de azucar.
+          100 g de coco rallado.
+          125 g de mantequilla derretida.
+          200 ml de leche de coco.
+          3 huevos.
+          1 cdta de esencia de vainilla.
+          1 cdta de polvo de hornear.
+          1 pizca de sal
+        </Ingredientes>
+        <instrucciones>
+          Paso 1: Precalienta el horno a 175 C.
+          Paso 2: En un bol, bate los huevos con el azucar hasta que la mezcla este esponjosa
+          Paso 3: Agrega la mantequilla derretida, la leche de coco y la esencia de vainilla. 
+          Paso 4: Incorpora la harina tamizada junto con el polvo de hornear y la pizca de sal.
+          Paso 5: Agrega el coco rallado y remueve hasta obtener una masa homogenea
+          Paso 6: Vierte la mezcla en un molde engrasado y hornea durante 35-40 minutos.
+          Paso 7: Dejar enfriar y servir.
+        </instrucciones>
+        <Tiempo_Coccion> De 35 a 40 minutos. </Tiempo_Coccion>
+        <Nivel_dificultad>Facil</Nivel_dificultad>
+    </Receta>
+</Pastel>

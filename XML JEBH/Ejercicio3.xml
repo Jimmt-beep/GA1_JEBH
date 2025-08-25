@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sopa>
+    <Receta id="1">
+        <Nombre>Sopa de verduras</Nombre>
+        <Ingredientes>
+            Zanahoria
+            Papa
+            Apio
+            Cebolla
+            Sal
+            Pimienta
+        </Ingredientes>
+        <Instrucciones>
+            Paso 1: Pelar y cortar las verduras en trozos pequeños.
+            Paso 2: Sofreir la cebolla y el apio en una olla.
+            Paso 3: Agregar el resto de verduras y cubrir con agua.
+            Paso 4: Cocinar a fuego medio hasta que las verduras esten tiernas.
+            Paso 5: Sazonar con sal y pimienta.
+            Paso 6: servir en un plato para sopas.
+        </Instrucciones>
+        <Tiempo_preparacion>35 minutos.</Tiempo_preparacion>
+        <Sabor>Suave y ligero.</Sabor>
+    </Receta>
+    <Receta id="2">
+        <Nombre>Sopa de pollo</Nombre>
+        <Ingredientes>
+            Pechuga de pollo
+            Zanahoria
+            Papa
+            Fideos finos
+            Cebolla
+            Ajo
+            Sal
+        </Ingredientes>
+        <Instrucciones>
+            Paso 1: Cocer la pechuga de pollo en agua con sal.
+            Paso 2: Luego de haber cocido el pollo retirelo y reservelo.
+            Paso 3: Agregar zanahoria,papa, cebolla y ajo al caldo.
+            Paso 4: Cuando esten casi listos añada los fideos.
+            Paso 5: Luego coloque el pollo, pero previamente desmenuzelo.
+            Paso 6: Dejar cocinar 5 minutos mas y luego sirvalo.
+        </Instrucciones>
+        <Tiempo_preparacion>40 minutos.</Tiempo_preparacion>
+        <Sabor>Suave con sabor a pollo.</Sabor>
+    </Receta>
+    <Receta id="3">
+        <Nombre>Sopa de lentejas</Nombre>
+        <Ingredientes>
+            Lentejas
+            Zanahoria
+            Papa
+            Ajo
+            Laurel
+            Cebolla
+            Comino
+        </Ingredientes>
+        <Instrucciones>
+            Paso 1: Remoje las lentejas por dos horas.
+            Paso 2: Sofria la cebolla, ajo y zanahoria en una olla.
+            Paso 3: Añadir las lentejas, papa y hojas de laurel en la olla.
+            Paso 4: Cubra con agua y cocine a fuego medio.
+            Paso 5: Dejelo cocinar por 50 minutos, luego sazone con comino y sal.
+            Paso 6: Sirva la sopa.
+        </Instrucciones>
+        <Tiempo_preparacion>50 minutos.</Tiempo_preparacion>
+        <Sabor>Intenso sabor a lentejas, pero altamente nutritivo.</Sabor>
+    </Receta>
+    <Receta id="4">
+        <Nombre>Sopa de tomate</Nombre>
+        <Ingredientes>
+            Tomates maduros
+            Cebolla
+            Ajo
+            Caldo de verduras
+            Aceite de oliva
+            Sal
+            Albahaca fresca
+        </Ingredientes>
+        <Instrucciones>
+            Paso 1: Pique los tomates, cebolla y ajo.
+            Paso 2: Sofria en una olla con aceite de oliva.
+            Paso 3: Añada el caldo de verduras y deje cocinar.
+            Paso 4: Tritue en una mezcla hasta obtener una crema suave.
+            Paso 5: Sirvalo en un plato, despues agrege las hojas de albahaca.
+        </Instrucciones>
+        <Tiempo_preparacion>30 minutos.</Tiempo_preparacion>
+        <Sabor>Intenso sabor a tomates.</Sabor>
+    </Receta>
+    <Receta id="5">
+        <Nombre>Sopa de mariscos</Nombre>
+        <Ingredientes>Camarones
+            Mejillones
+            Calamares
+            Cebolla
+            Ajo
+            Tomate
+            Caldo de pescado
+        </Ingredientes>
+        <Instrucciones>
+            Paso 1: Sofria el tomate el ajo y la cebolla en una olla.
+            Paso 2: Añada el caldo de pescado y dejelo llevar a ebullicion.
+            Paso 3: Incorpora los camarones y demas mariscos.
+            Paso 4: Cocine a fuego medio hasta que este listo.
+            Paso 5: Agrege agua y sal en la olla para luego servirlo.
+            Paso 6: sirvalo con pan tostado.
+        </Instrucciones>
+        <Tiempo_preparacion>45 miuntos.</Tiempo_preparacion>
+        <Sabor>Sabor intenso a mariscos.</Sabor>
+    </Receta>
+</Sopa>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ensalada>
+    <Receta id="1">
+        <Nombre>Ensalada de tomate</Nombre>
+        <Ingredientes>
+        2 o 3 tomates.
+        Aceite de oliva.
+        Vinage.
+        Sal.
+        Oregano.
+        1 Diente de ajo.
+        Sesamo.             
+        </Ingredientes>
+        <Instrucciones>
+        Paso 1:Trocear los tomates en trozos de bocado.
+        Paso 2: Hacer una vinagreta,añadiendo un diente de ajo sin corazon,
+        oregano,aceita de oliva, vinagre y sal. Luego lo mezclamos.
+        Paso 3:Añadimos la vinagreta a los tomates  y servimos.
+        </Instrucciones>
+        <Calorias>92 calorias por porcion.</Calorias>
+        <Tipo_Ensalada>Ensalada de verdura.</Tipo_Ensalada>
+    </Receta>
+    <Receta id="2">
+        <Nombre>Ensalada Cesar</Nombre>
+        <Ingredientes>
+         Lechuga romana
+         Crutones
+         Queso parmesano rallado
+         Pechuga de pollo a la plancha (opcional)
+         Aderezo cesar (yema de huevo, anchoas, mostaza, jugo de limon, aceite de oliva)             
+        </Ingredientes>
+        <Instrucciones>
+         Paso 1: Lava y corta la lechuga en trozos.
+         Paso 2: Prepara el aderezo mezclando las anchoas con yema de huevo, mostaza, jugo de limon y aceite hasta emulsionar.
+         Paso 3: Mezcla la lechuga con el aderezo, añade los crutones, queso parmesano y pollo si deseas.
+        </Instrucciones>
+        <Calorias>250 calorias por porcion.</Calorias>
+        <Tipo_Ensalada>Ensalada clasica</Tipo_Ensalada>
+    </Receta>
+    <Receta id="3">
+        <Nombre>Ensalada mixta</Nombre>
+        <Ingredientes>
+        Lechuga
+        Tomate
+        Pepino
+        Cebolla
+        Zanahoria rallada
+        Aceite de oliva
+        Vinagre
+        Sal
+        Pimienta   
+        </Ingredientes>
+        <Instrucciones>
+         Paso 1: Lava y corta las verduras en trozos medianos.
+         Paso 2: Mezcla todo en un bol grande.
+         Paso 3: Agrega aceite, pimienta y sal.
+         Paso 4: Sirve la ensalada.
+        </Instrucciones>
+        <Calorias>90 calorias por porcion.</Calorias>
+        <Tipo_Ensalada>Ensalada de verduras.</Tipo_Ensalada>
+    </Receta>
+       <Receta id="4">
+        <Nombre>Ensalada de pollo</Nombre>
+        <Ingredientes>
+         Pechuga de pollo cocida y desmenuzada
+         Lechuga
+         Elote desgranado
+         Zanahoria rallada
+         Mayonesa
+         Sal 
+         Pimienta              
+        </Ingredientes>
+        <Instrucciones>
+        Paso 1: En un bol añade el pollo desmenuzado junto a las verduras.  
+        Paso 2: Añade la mayonesa, sal y pimienta.
+        Paso 3: Mezcla todo.
+        Paso 4: Sirve la ensalada con algun acompañamiento. 
+        </Instrucciones>
+        <Calorias>210 caloeias por porcion </Calorias>
+        <Tipo_Ensalada>Ensalada con proteina</Tipo_Ensalada>
+    </Receta>
+       <Receta id="5">
+        <Nombre>Ensalada de espinaca y fresas</Nombre>
+        <Ingredientes>
+         Hojas de espinaca
+         Fresas en rodajas
+         Nueces
+         Queso de cabra (puede ser cualquier otro queso)
+         Vinagre valsamico
+         Aceite de oliva
+        </Ingredientes>
+        <Instrucciones>
+        Paso 1: Lava la espnaca y la fresa.
+        Paso 2: Mezcla todos los ingredientes en un bol.
+        Paso 3: Agrega el aceite y vinage balsamico para darle mas sabor.
+        Paso 4: Sirve la ensalada.
+        </Instrucciones>
+        <Calorias>170 Calorias por porcion</Calorias>
+        <Tipo_Ensalada>Ensalada agridulce</Tipo_Ensalada>
+    </Receta>
+</Ensalada>

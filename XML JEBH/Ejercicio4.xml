@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="<UTF-8>"?>
+<Tarjetas>
+    <Tarjeta id="1">
+        <Fabricante>NVIDIA</Fabricante>
+        <Modelo>GeForce RTX 4090</Modelo>
+        <MemoriaVRAM>GeForce RTX 4090</MemoriaVRAM>
+        <Resolucion_maxima>7680x4320</Resolucion_maxima>
+        <Puertos_Conexion>HDMI 2.1, DisplayPort 1.4a</Puertos_Conexion>
+     </Tarjeta>
+      <Tarjeta id="2">
+        <Fabricante>AMD</Fabricante>
+        <Modelo>Radeon RX 7900 XTX</Modelo>
+        <MemoriaVRAM>24 GB GDDR6</MemoriaVRAM>
+        <Resolucion_maxima>7680x4320</Resolucion_maxima>
+        <Puertos_Conexion>HDMI 2.1, USB-C, DisplayPort 2.1</Puertos_Conexion>
+     </Tarjeta>
+      <Tarjeta id="3">
+        <Fabricante>Intel</Fabricante>
+        <Modelo>Arc A770</Modelo>
+        <MemoriaVRAM>VRAM: 16 GB GDDR6</MemoriaVRAM>
+        <Resolucion_maxima>5120x2880</Resolucion_maxima>
+        <Puertos_Conexion>HDMI 2.0, DisplayPort 2.0</Puertos_Conexion>
+     </Tarjeta>
+      <Tarjeta id="4">
+        <Fabricante>ASUS</Fabricante>
+        <Modelo>ROG Strix RTX 4070 Ti</Modelo>
+        <MemoriaVRAM>12 GB GDDR6X</MemoriaVRAM>
+        <Resolucion_maxima>7680x4320</Resolucion_maxima>
+        <Puertos_Conexion>HDMI 2.1, DisplayPort 1.4a</Puertos_Conexion>
+     </Tarjeta>
+      <Tarjeta id="5">
+        <Fabricante>MSI</Fabricante>
+        <Modelo>RX 6800 XT Gaming X Trio</Modelo>
+        <MemoriaVRAM>16 GB GDDR6</MemoriaVRAM>
+        <Resolucion_maxima>7680x4320</Resolucion_maxima>
+        <Puertos_Conexion>HDMI 2.1, DisplayPort 1.4a</Puertos_Conexion>
+     </Tarjeta>
+</Tarjetas>

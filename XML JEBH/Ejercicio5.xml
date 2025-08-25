@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Proyectos>
+    <Proyecto id="1"></Proyecto>
+        <Nombre>Park.inc</Nombre>
+        <Objetivo>Gestionar las reservas de los sistemas de parqueo.</Objetivo>
+        <Tecnologias_usadas>Java, Flutter, Mysql, Esp32.</Tecnologias_usadas>
+        <Miembros_equipo>3 desarrolladores,2 tecnicos electronicos ,2 testeadores y un project manager.</Miembros_equipo>
+        <Fecha_entrega>10/07/2025</Fecha_entrega>
+    <Proyecto id="2"></Proyecto>
+        <Nombre>Data traveler</Nombre>
+        <Objetivo>Recuperar datos de los discos duro infectados de forma segura.</Objetivo>
+        <Tecnologias_usadas>Rust y Python.</Tecnologias_usadas>
+        <Miembros_equipo>3 desarrolladores, 1 project manager.</Miembros_equipo>
+        <Fecha_entrega>25/11/2027</Fecha_entrega>
+    <Proyecto id="3"></Proyecto>
+        <Nombre>Cat Coussine</Nombre>
+        <Objetivo>Manejar a distancia los tiempos de comida de una mascota.</Objetivo>
+        <Tecnologias_usadas>Arduino, C#, Access.</Tecnologias_usadas>
+        <Miembros_equipo>2 Desarrolladores,2 tecnicos electronicos ,1 project manager.</Miembros_equipo>
+        <Fecha_entrega>15/07/2024</Fecha_entrega>
+    <Proyecto id="4"></Proyecto>
+        <Nombre>Park.inc</Nombre>
+        <Objetivo>Gestionar las reservas de los sistemas de parqueo.</Objetivo>
+        <Tecnologias_usadas>Java, Flutter, Mysql</Tecnologias_usadas>
+        <Miembros_equipo>4 desarrolladores, 2 testeadores</Miembros_equipo>
+        <Fecha_entrega>10/07/2025</Fecha_entrega>
+    <Proyecto id="5"></Proyecto>
+        <Nombre>Park.inc</Nombre>
+        <Objetivo>Gestionar las reservas de los sistemas de parqueo.</Objetivo>
+        <Tecnologias_usadas>Java, Flutter, Mysql</Tecnologias_usadas>
+        <Miembros_equipo>4 desarrolladores, 2 testeadores</Miembros_equipo>
+        <Fecha_entrega>10/07/2025</Fecha_entrega>
+</Proyectos>
